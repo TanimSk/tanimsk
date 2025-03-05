@@ -1,6 +1,3 @@
-<img width="687" alt="418506336-95e15072-5197-4b41-a6ee-ca5bebd20f70" src="https://github.com/user-attachments/assets/b80c5791-6b21-4406-83da-3673d938f2b5" />
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -53,3 +50,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimsk&show_icons=true&locale=en" alt="tanimsk" />
 
+
+<img width="687" alt="418506336-95e15072-5197-4b41-a6ee-ca5bebd20f70" src="https://github.com/user-attachments/assets/b80c5791-6b21-4406-83da-3673d938f2b5" />
